@@ -1,0 +1,2 @@
+PREREQUISITE
+-> node version 18+
