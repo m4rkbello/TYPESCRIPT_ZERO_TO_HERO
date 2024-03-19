@@ -1,2 +1,8 @@
 PREREQUISITE
 -> node version 18+
+
+1.HOW TO INSTALL 
+->npm i -g typescript
+2. INSTALL THIS 
+-> Get-ExecutionPolicy -List
+-> Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
